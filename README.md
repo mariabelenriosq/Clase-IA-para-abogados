@@ -5,6 +5,7 @@
 > **Estudiante:** María Belén Ríos Q.
 > **Nombre del proyecto:** ArrendaCheck
 > **Fecha de inicio:** 2026-09-22
+> > **URL pública de la aplicación:** [https://clase-ia-para-abogadosgit-cb8trktnba2ugszrmzcvu4.streamlit.app](https://clase-ia-para-abogadosgit-cb8trktnba2ugszrmzcvu4.streamlit.app)
 
 ---
 
